@@ -1,0 +1,16 @@
+html, body {
+	color: #525163;
+	font-weight: 400px;
+}
+.container {
+	width: 80%;
+	height: 80%;
+	margin: 50px auto;
+}
+
+.lists {
+	border-radius: 10px;
+	border: 1px solid pink;
+	background: #ffc0dae0;
+	height: 50vh;
+}
